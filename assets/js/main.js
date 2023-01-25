@@ -1,5 +1,5 @@
 /*-----------------------------------------------------------------------------------
- Template Name: Posh - Auto Parts eCommerce Bootstrap 4 Html Template
+ Template Name: Weighryte India - Deals in all types of Electronic & Mechanical Weighing Systems
  Description: A perfect template to build beautiful and unique Autopart websites. It comes with nice and clean design.
  Version: 1.0
  ----------------------------------------------------------------------------------- */
